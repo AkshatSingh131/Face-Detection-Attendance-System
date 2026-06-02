@@ -19,6 +19,7 @@ face_recognition (dlib)
 NumPy
 MySQL
 mysql-connector-python
+(create a known_faces folder for the known images)
 
 
 Architecture:-
